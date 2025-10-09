@@ -83,7 +83,7 @@ For contributing guidelines and standards, visit [contributing.md](https://githu
 
 <table>
   <tr>
-<td align="center"><a href="https://github.com/shukla9871"><img src="" width="100px;" alt=""/><br /><sub><b>Pratik Shukla</b></sub></a></td>
+<td align="center"><a href="https://github.com/shukla9871"><img src="" width="100px;" alt="https://avatars.githubusercontent.com/u/187262902?v=4"/><br /><sub><b>Pratik Shukla</b></sub></a></td>
   </tr>
 </table>
 
