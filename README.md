@@ -9,6 +9,13 @@ This was our first hackathon.
 ## Website Link-
 <a href="https://sukoon-calm.vercel.app/">Sukoon</a>
 
+## Team Members-
+1-Pratik Shukla
+2-Shashank Shekar Chaturvedi
+3-Aditi Verma (Leader)
+4-Manshi Kumari Prajapati
+5-Alka Kumari
+
 ## 🕊 Our Tagline 
 The one step solution to get relief from your stress.
 Live a stress-free life.
