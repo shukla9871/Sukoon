@@ -83,7 +83,7 @@ For contributing guidelines and standards, visit [contributing.md](https://githu
 
 <table>
   <tr>
-<td align="center"><a href="https://github.com/shukla9871"><img src="https://camo.githubusercontent.com/916b1665927e249fb584ba7d7a52eb9f5d1b130c1ee39c8073eb713b4141ce75/68747470733a2f2f636f6e747269622e726f636b732f696d6167653f7265706f3d7368756b6c61393837312f53756b6f6f6e" width="100px;" alt=""/><br /><sub><b>Pratik Shukla</b></sub></a></td>
+<td align="center"><a href="https://github.com/shukla9871"><img src="https://avatars.githubusercontent.com/u/187262902?v=4" width="100px;" alt=""/><br /><sub><b>Pratik Shukla</b></sub></a></td>
   </tr>
 </table>
 
@@ -92,7 +92,7 @@ For contributing guidelines and standards, visit [contributing.md](https://githu
 <tr>
 <td>
 <a href="https://github.com/shukla9871/Sukoon/graphs/contributors" align="center">
-  <img src="https://contrib.rocks/image?repo=shukla9871/Sukoon" /> 
+  <img src="https://avatars.githubusercontent.com/u/187262902?v=4" /> 
 </a>
 </td>
 </tr>
