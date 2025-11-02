@@ -1,24 +1,20 @@
 # Sukoon 
-This is a stress-relieving website project made for the hackathon [TechSphere]. 
-This project is under the theme **Healthcare.**
-This was our first hackathon.
+This is a stress-relieving website project made for the hackathon [HackwithUttarPradesh]. 
+This project is under the theme **Healthcare or Open Innovatiob.**
+
 
 ## 📃 Description 
-"Welcome to our stress-relieving website : [Sukoon](https://sukoon-calm.vercel.app/)! Here, you'll find a variety of tools and resources to help you manage and reduce stress in your daily life. From carefully crafted playlists and relaxing podcasts, to articles and tips on stress management techniques, our goal is to provide you with a one-stop-shop for all of your stress-relief needs. Whether you're looking for a quick break during a hectic workday, or a longer practice to unwind at night, we've got you covered. Take a look around, try out some of our resources, and let us know if there's anything we can do to improve your experience. Remember, taking care of yourself is just as important as taking care of your work and projects, so don't hesitate to make time for stress relief in your busy schedule."
+"Welcome to our stress-relieving website : [Sukoon](https://sukoon-calm.netlify.app/)! Here, you'll find a variety of tools and resources to help you manage and reduce stress in your daily life. From carefully crafted playlists and relaxing podcasts, to articles and tips on stress management techniques, our goal is to provide you with a one-stop-shop for all of your stress-relief needs. Whether you're looking for a quick break during a hectic workday, or a longer practice to unwind at night, we've got you covered. Take a look around, try out some of our resources, and let us know if there's anything we can do to improve your experience. Remember, taking care of yourself is just as important as taking care of your work and projects, so don't hesitate to make time for stress relief in your busy schedule."
 
 ## Website Link-
-<a href="https://sukoon-calm.vercel.app/">Sukoon</a>
+<a href="https://sukoon-calm.netlify.app/">Sukoon</a>
 
 ## Team Members-
 1-Pratik Shukla
 
-2-Shashank Shekar Chaturvedi
+2-Yash Rai
 
-3-Aditi Verma (Leader)
-
-4-Manshi Kumari Prajapati
-
-5-Alka Kumari
+3-Devansh Kumar Singh (Leader)
 
 ## 🕊 Our Tagline 
 The one step solution to get relief from your stress.
