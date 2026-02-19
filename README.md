@@ -1,17 +1,92 @@
 # Sukoon 
-This is a stress-relieving website project made for the hackathon [HackwithUttarPradesh]. 
-This project is under the theme **Healthcare or Open Innovatiob.**
+# Sukoon – Decentralized Mental Wellness Platform
+This is a stress-relieving website project made for the hackathon [RIFT HACKATHON 2026]. 
+This project is under the theme **Healthcare or Open Innovation.**
 
+## 🧠 Project Description
 
-## 📃 Description 
-"Welcome to our stress-relieving website : [Sukoon]()! Here, you'll find a variety of tools and resources to help you manage and reduce stress in your daily life. From carefully crafted playlists and relaxing podcasts, to articles and tips on stress management techniques, our goal is to provide you with a one-stop-shop for all of your stress-relief needs. Whether you're looking for a quick break during a hectic workday, or a longer practice to unwind at night, we've got you covered. Take a look around, try out some of our resources, and let us know if there's anything we can do to improve your experience. Remember, taking care of yourself is just as important as taking care of your work and projects, so don't hesitate to make time for stress relief in your busy schedule."
+Sukoon is a decentralized mental wellness platform built on the Algorand blockchain.
+"Welcome to our stress-relieving website : [Sukoon](https://sukoon-pw.netlify.app/)! Here, you'll find a variety of tools and resources to help you manage and reduce stress in your daily life. From carefully crafted playlists and relaxing podcasts, to articles and tips on stress management techniques, our goal is to provide you with a one-stop-shop for all of your stress-relief needs. Whether you're looking for a quick break during a hectic workday, or a longer practice to unwind at night, we've got you covered. Take a look around, try out some of our resources, and let us know if there's anything we can do to improve your experience. Remember, taking care of yourself is just as important as taking care of your work and projects, so don't hesitate to make time for stress relief in your busy schedule."
+It allows users to securely store and verify wellness session records on-chain using smart contracts deployed on Algorand Testnet.
+This project is developed using AlgoKit and demonstrates meaningful interaction with Algorand smart contracts beyond simple payments.
+
+## 📌 Problem Statement
+Selected from RIFT Open Innovation Track:
+[Open Innovation Challenge — Powered by Algorand ]
 
 ## Website Link-
-<a href="">Sukoon</a>
+<a href="https://sukoon-pw.netlify.app/">Sukoon</a>
+
+## 🔗 App ID (Algorand Testnet)
+App Phrase :QR2B7ZHW7UG2Y4L6T7YYJPN2FXLHBIUZUOSDNXTL2DFGHO5RGMCZZB73PY
+App ID: 78546739
+Testnet Explorer Link: https://testnet.algoexplorer.io/application/78546739
+
+## 🎥 Demo Video (LinkedIn – Public)
+[Paste your LinkedIn video link here]
+(Tag RIFT official LinkedIn page)
+
+## 🏗 Architecture Overview
+Frontend:
+- HTML
+- CSS
+- JavaScript
+
+Blockchain:
+- Algorand Testnet
+
+Smart Contract:
+- Developed using AlgoKit
+- Written in (PyTEAL / Beaker / TEALScript)
+
+Wallet Integration:
+- Pera Wallet Connect
+
+Flow:
+1. User connects wallet
+2. User interacts with smart contract
+3. Transaction sent to Algorand Testnet
+4. App ID verifies state update on-chain
+
+---
+
+## 🛠 Tech Stack
+
+- AlgoKit (Smart contract development & deployment)
+- Algorand Testnet
+- Smart Contract Language: (Mention what you used)
+- Frontend: HTML, CSS, JavaScript
+- Wallet: Pera Wallet
+
+---
+
+## ⚙ Installation & Setup Instructions
+
+1. Clone the repository:
+   git clone https://github.com/yourusername/sukoon.git
+
+2. Install AlgoKit:
+   pip install algokit
+
+3. Initialize project:
+   algokit init
+
+4. Deploy smart contract to Testnet:
+   algokit deploy
+
+5. Start frontend:
+   Open index.html or deploy using Netlify
+
+## 📌 Why Algorand?
+
+- Fast finality (under 4 seconds)
+- Low transaction fees
+- Secure smart contracts
+- Suitable for real-world decentralized applications
+
 
 ## Team Members-
 1-Pratik Shukla
-
 2-Manasvi Yadav
 
 ## 🕊 Our Tagline 
